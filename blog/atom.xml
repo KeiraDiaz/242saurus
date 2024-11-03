@@ -8,23 +8,12 @@
     <subtitle>242saurus Blog</subtitle>
     <icon>https://KeiraDiaz.github.io/242saurus/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[POPQUIZ]]></title>
-        <id>https://KeiraDiaz.github.io/242saurus/blog/2024/10/30/POPQUIZ/</id>
-        <link href="https://KeiraDiaz.github.io/242saurus/blog/2024/10/30/POPQUIZ/"/>
+        <title type="html"><![CDATA[Pop Quiz]]></title>
+        <id>https://KeiraDiaz.github.io/242saurus/blog/POP-QUIZ/</id>
+        <link href="https://KeiraDiaz.github.io/242saurus/blog/POP-QUIZ/"/>
         <updated>2024-10-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[---]]></summary>
-        <content type="html"><![CDATA[<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="slug-pop-quiztitle-pop-quizauthors-keiradiaz-mcflurrinstags-popquiz-week07">slug: POP-QUIZ
-title: Pop Quiz
-authors: [KeiraDiaz, Mcflurrins]
-tags: [POPQUIZ, WEEK07]<a href="https://keiradiaz.github.io/242saurus/blog/2024/10/30/POPQUIZ/#slug-pop-quiztitle-pop-quizauthors-keiradiaz-mcflurrinstags-popquiz-week07" class="hash-link" aria-label="Direct link to slug: POP-QUIZ
-title: Pop Quiz
-authors: [KeiraDiaz, Mcflurrins]
-tags: [POPQUIZ, WEEK07]" title="Direct link to slug: POP-QUIZ
-title: Pop Quiz
-authors: [KeiraDiaz, Mcflurrins]
-tags: [POPQUIZ, WEEK07]">​</a></h2>
-<p>This is our POP QUIZ posting!</p>
+        <summary type="html"><![CDATA[This is our POP QUIZ posting!]]></summary>
+        <content type="html"><![CDATA[<p>This is our POP QUIZ posting!</p>
 <p>-- Keira D. and Flori A.</p>
 <p>This writing is hidden below the "truncate" tag.</p>
 <p>This writing is hidden below the "truncate" tag.</p>
@@ -36,6 +25,16 @@ tags: [POPQUIZ, WEEK07]">​</a></h2>
 <p>This writing is hidden below the "truncate" tag.</p>
 <p>This writing is hidden below the "truncate" tag.</p>
 <p>This writing is hidden below the "truncate" tag.</p>]]></content>
+        <author>
+            <name>Keira Diaz Nabhani</name>
+            <uri>https://github.com/KeiraDiaz</uri>
+        </author>
+        <author>
+            <name>Flori Andrea Ng</name>
+            <uri>https://github.com/Mcflurrins</uri>
+        </author>
+        <category label="POPQUIZ" term="POPQUIZ"/>
+        <category label="WEEK07" term="WEEK07"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
